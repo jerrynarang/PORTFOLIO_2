@@ -27,3 +27,9 @@ td, th {
 tr:nth-child(even) {
     background-color: #dddddd;
 }
+ @media (max-width: 767px) { 
+
+.test{
+    padding-top: 30px;
+}
+}
