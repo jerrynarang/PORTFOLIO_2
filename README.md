@@ -23,7 +23,7 @@ The <strong>Modal Part</strong> is defined at the end of the body section.
 
 ## DIRECTORY INFORMATION
 
-The zip folder <strong>'PORTFOLIO'</strong> consists of index.html along with 3 folders :
+The Repository <strong>'PORTFOLIO_2'</strong> consists of index.html along with 3 folders :
 
 * <strong>css:</strong> It consists of external style sheets - <strong>styles.css,bootstrap.min.css</strong> and a background image</li><br>
 * <strong>images :</strong> It consists of all the images used in the Portfolio</li><br>
