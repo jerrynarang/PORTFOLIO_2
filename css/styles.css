@@ -39,8 +39,12 @@ tr:nth-child(even) {
     background-color: #dddddd;
 }
  
-.demo{
+.demo {
     background-color: white;
+}
+
+.line {
+    border : 5px solid black;
 }
 
 @media (max-width: 767px) { 
@@ -53,20 +57,24 @@ tr:nth-child(even) {
  
 @media (min-width: 768px) and (max-width: 991px) { 
 
-.test1 {
-    margin-left: 25%;
+    .test1 {
+        margin-left: 25%;
  
 }
 }
 
 @media(min-width: 992px) {
 
-.test2 {
-    opacity: .85;
+    .test2 {
+        opacity: .85;
 }
 
-.test2:hover {
-    opacity: 1;
+    .test2:hover {
+        opacity: 1;
 }
 }
 
+.fa {
+    font-size:24px;
+    padding:5px;
+}
