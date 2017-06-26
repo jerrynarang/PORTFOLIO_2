@@ -1,17 +1,19 @@
-body{
+body {
     font-family: 'Cabin', sans-serif;
     font-weight: 400;
     background-image: url("mb-background-2000.jpg");
       }
 
-.logo{
+.logo {
     padding: 10px;
     opacity: 0.8;
 }
-ul li{
+
+ul li {
     padding: 3px;
 }
-hr{ 
+
+hr { 
     display: block;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
@@ -20,13 +22,14 @@ hr{
     border-style: inset;
     border-width: 2px;
 }
-table{
+
+table {
     font-family: 'Cabin', sans-serif;
     border-collapse: collapse;
     width: 100%;
 }
 
-td,th{
+td,th {
     border: 1px solid #dddddd;
     text-align: left;
     padding: 8px;
@@ -36,29 +39,33 @@ tr:nth-child(even) {
     background-color: #dddddd;
 }
  
+.demo{
+    background-color: white;
+}
+
 @media (max-width: 767px) { 
 
-.test{
+.test {
     padding-top: 30px;
     width:100% ;
 }
 }
  
-@media (min-width: 768px) and (max-width: 991px){ 
+@media (min-width: 768px) and (max-width: 991px) { 
 
-.test1{
+.test1 {
     margin-left: 25%;
  
 }
 }
 
-@media(min-width: 992px){
+@media(min-width: 992px) {
 
-.test2{
+.test2 {
     opacity: .85;
 }
 
-.test2:hover{
+.test2:hover {
     opacity: 1;
 }
 }
