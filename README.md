@@ -29,6 +29,8 @@ The Repository <strong>'PORTFOLIO_2'</strong> consists of index.html along with 
 * <strong>images :</strong> It consists of all the images used in the Portfolio</li><br>
 * <strong>js :</strong> It consists of external javascript files</li>
 
+## LIVE SITE 
+https://jerrynarang.github.io/PORTFOLIO_2/
 
 ## LICENSE
 
